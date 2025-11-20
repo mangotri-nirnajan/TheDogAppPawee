@@ -1,6 +1,6 @@
 # TheDogAppPawee
 
-I vibe codded this. 
+I vibe coded this. 
 
 Learnt a bit of kotlin on the way. 
 Animation and logo credits due to respective owners.
